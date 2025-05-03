@@ -1,10 +1,15 @@
+
+
+https://github.com/user-attachments/assets/27a49902-80c8-4f9c-a87e-0f1e4f265e9c
+
 Thanks for helping make GitHub safe for everyone.
 
 ## Security
 
 GitHub takes the security of our software products and services seriously, including all of the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
 
-Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
+Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/index.html#scope) an![qrcode](https://github.com/user-attachments/assets/6b98bab4-2004-4f33-a48e-a0a1a2eeb845)
+d therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation. 
 
 ## Reporting Security Issues
 
